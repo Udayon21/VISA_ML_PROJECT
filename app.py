@@ -1,0 +1,1 @@
+from VISA_ML_PROJECT.components import data_ingestion
